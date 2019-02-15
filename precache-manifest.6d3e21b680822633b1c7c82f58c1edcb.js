@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "/img/rostro-larri.d395d4f5.png"
   },
   {
+    "revision": "66ee47fec22eb84619a598ce78b05918",
+    "url": "/img/recursos.66ee47fe.png"
+  },
+  {
     "revision": "6580458e38e7867f0b25ad7260a67967",
     "url": "/img/placeholder_3.6580458e.jpg"
   },
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/img/foot_1.141519a2.png"
   },
   {
-    "revision": "00ce687fc10ff016d04dc474a7b53356",
+    "revision": "343c384f4fc0facdad69fd1c68ecc183",
     "url": "/index.html"
   },
   {
@@ -168,10 +172,6 @@ self.__precacheManifest = [
     "url": "/img/placeholder.8d554249.jpg"
   },
   {
-    "revision": "66ee47fec22eb84619a598ce78b05918",
-    "url": "/img/recursos.66ee47fe.png"
-  },
-  {
     "revision": "02468edf445f24fd07f8f171c5d22f99",
     "url": "/img/dueños_de_negocios.02468edf.png"
   },
@@ -228,8 +228,8 @@ self.__precacheManifest = [
     "url": "/img/embajador.53c9f045.png"
   },
   {
-    "revision": "2d8b231f711c361885bc",
-    "url": "/js/app.f26c5dec.js"
+    "revision": "c34fd04a0b9d025b02c4",
+    "url": "/js/app.8b8b7959.js"
   },
   {
     "revision": "2fa7b0537c313078c7e3cb3c8ed2422f",
@@ -380,8 +380,8 @@ self.__precacheManifest = [
     "url": "/img/GermanStio.12415e8e.png"
   },
   {
-    "revision": "ab6f946ff03121d2f62adaf1b43968fc",
-    "url": "/favicon/android-chrome-192x192.png"
+    "revision": "0221987395fc62e5dd76cfd289f85bcd",
+    "url": "/assets/pdf/Folleto_WIN_R1nov2018.pdf"
   },
   {
     "revision": "f9beb449603e8116a28c40cebcef9104",
@@ -400,44 +400,48 @@ self.__precacheManifest = [
     "url": "/img/2.81b83112.png"
   },
   {
-    "revision": "e4043cd01df09e427afd482671eae0e3",
-    "url": "/favicon/favicon-32x32.png"
-  },
-  {
-    "revision": "2d8b231f711c361885bc",
-    "url": "/css/app.b28530d6.css"
-  },
-  {
-    "revision": "b054d57ad29510f17f23",
-    "url": "/css/chunk-vendors.179ac6d8.css"
-  },
-  {
-    "revision": "c4ce7bda1a7d96f61d4e6cf1415ea388",
-    "url": "/favicon/apple-touch-icon.png"
-  },
-  {
-    "revision": "66824dc97bd0c46dd61f907a4345d2cc",
-    "url": "/favicon/site.webmanifest"
-  },
-  {
-    "revision": "0144c477c5166c551012acff98cbf4d2",
-    "url": "/favicon/browserconfig.xml"
-  },
-  {
     "revision": "75400e6fed822e006852d101d690a278",
     "url": "/favicon/favicon-16x16.png"
+  },
+  {
+    "revision": "c34fd04a0b9d025b02c4",
+    "url": "/css/app.95c21f5b.css"
   },
   {
     "revision": "6e24d8072fe3118f971bd550bd813fd9",
     "url": "/favicon/android-chrome-384x384.png"
   },
   {
-    "revision": "7e938065fae359d2a5b79546ce304a6a",
-    "url": "/favicon/safari-pinned-tab.svg"
+    "revision": "b054d57ad29510f17f23",
+    "url": "/css/chunk-vendors.179ac6d8.css"
   },
   {
     "revision": "93bd1d950e2ed3f60085f4ced9dc57d3",
     "url": "/favicon/mstile-150x150.png"
+  },
+  {
+    "revision": "c4ce7bda1a7d96f61d4e6cf1415ea388",
+    "url": "/favicon/apple-touch-icon.png"
+  },
+  {
+    "revision": "0144c477c5166c551012acff98cbf4d2",
+    "url": "/favicon/browserconfig.xml"
+  },
+  {
+    "revision": "ab6f946ff03121d2f62adaf1b43968fc",
+    "url": "/favicon/android-chrome-192x192.png"
+  },
+  {
+    "revision": "e4043cd01df09e427afd482671eae0e3",
+    "url": "/favicon/favicon-32x32.png"
+  },
+  {
+    "revision": "66824dc97bd0c46dd61f907a4345d2cc",
+    "url": "/favicon/site.webmanifest"
+  },
+  {
+    "revision": "7e938065fae359d2a5b79546ce304a6a",
+    "url": "/favicon/safari-pinned-tab.svg"
   },
   {
     "revision": "14a1ecf5f02afdf39c72ef285b322b1b",
@@ -446,10 +450,6 @@ self.__precacheManifest = [
   {
     "revision": "6490566e6fa906e13f4c3083e1d6c7a7",
     "url": "/assets/pdf/Folleto_Weenjoy_R1nov2018.pdf"
-  },
-  {
-    "revision": "0221987395fc62e5dd76cfd289f85bcd",
-    "url": "/assets/pdf/Folleto_WIN_R1nov2018.pdf"
   },
   {
     "revision": "bc7f33da91a2c52f31e4dd7ab9c4250e",
